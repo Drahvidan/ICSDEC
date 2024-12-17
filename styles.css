@@ -387,30 +387,30 @@
     height: 525px;
     width: 400px;
     border-radius: 7px;
-    background-image: url('/images/pic2.jpeg');
+    background-image: url('pic2.jpeg');
     background-size: cover;
     position: relative;
     color: #fff;
 }
 
 .services__card:nth-child(2) {
-    background-image: url('/images/pic3.jpeg');
+    background-image: url('pic3.jpeg');
 }
 
 .services__card:nth-child(3) {
-    background-image: url('/images/pic3.jpeg');
+    background-image: url('pic3.jpeg');
 }
 
 .services__card:nth-child(4) {
-    background-image: url('/images/pic4.jpeg'); /* Apply the desired image here */
+    background-image: url('pic4.jpeg'); /* Apply the desired image here */
 }
 
 .services__card:nth-child(5) {
-    background-image: url('/images/pic3.jpeg');
+    background-image: url('pic3.jpeg');
 }
 
 .services__card:nth-child(6) {
-    background-image: url('/images/pic3.jpeg');
+    background-image: url('pic3.jpeg');
 }
 
 .services h2 {
